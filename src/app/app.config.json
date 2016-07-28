@@ -1,0 +1,13 @@
+{
+  "appname": "DowntownBuyer",
+  "ocscope": "FullAccess",
+  "clientid": "946C8299-DAF9-4094-87D3-498F8438FCE1",
+  "buyerid": "55401",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
